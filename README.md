@@ -2,13 +2,14 @@
 # Awesome IDEAs
 ## A list of awesome ideas that can be your new Startup or Project
 
-### Please submit your ideas via Pull Requests or t.me/ShahriarShanto or [@ShantoShahriar](https://twitter.com/ShantoShahriar)
+### Please submit your ideas via Pull Requests or [Telegram](https://t.me/ShahriarShanto) or [@ShantoShahriar](https://twitter.com/ShantoShahriar)
 
 ### Some of these were initially thought for [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh), but hopefully can be implemented anywhere in the world.
 
 ## Always remember, ideas are meant to be shared.
 
 01. Dragon Electronics
+
 → Logo: Black/Red/Electronic Dragon
 → Best Builds: Low, Budget & High
 → Learning Hardware Renting
@@ -89,7 +90,7 @@ Tech Enthusiasts, Engineering Students, Engineering Graduates, Graphics Designer
 5. Learning Kits
 6. Robotics Hardware
 
-7. ‎IoT Devices & Services
+7. IoT Devices & Services
 → Smart Home & Smart Grid
 → Biometric Attendance System (Online)
 
